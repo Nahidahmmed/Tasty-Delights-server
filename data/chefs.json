@@ -1,38 +1,51 @@
 [
     {
-        "chefPicture": "https://via.placeholder.com/150",
-        "chefName": "John Smith",
-        "yearsOfExperience": 10,
-        "numberOfRecipes": 50
+      "chefPicture": "https://via.placeholder.com/150",
+      "chefName": "John Smith",
+      "shortBio": "John Smith is a classically trained chef with over 10 years of experience in the restaurant industry. He specializes in French cuisine and has published two cookbooks.",
+      "likes": 1000,
+      "numberOfRecipes": 50,
+      "yearsOfExperience": 10
     },
     {
-        "chefPicture": "https://via.placeholder.com/150",
-        "chefName": "Jane Doe",
-        "yearsOfExperience": 8,
-        "numberOfRecipes": 30
+      "chefPicture": "https://via.placeholder.com/150",
+      "chefName": "Jane Doe",
+      "shortBio": "Jane Doe is a self-taught chef who has been cooking since she was a child. She is passionate about using locally sourced ingredients and creating healthy, flavorful meals.",
+      "likes": 750,
+      "numberOfRecipes": 30,
+      "yearsOfExperience": 8
     },
     {
-        "chefPicture": "https://via.placeholder.com/150",
-        "chefName": "Michael Johnson",
-        "yearsOfExperience": 12,
-        "numberOfRecipes": 70
+      "chefPicture": "https://via.placeholder.com/150",
+      "chefName": "Michael Johnson",
+      "shortBio": "Michael Johnson is a celebrity chef who has appeared on several cooking shows. He is known for his innovative fusion cuisine and has won numerous awards for his cooking.",
+      "likes": 1500,
+      "numberOfRecipes": 70,
+      "yearsOfExperience": 12
     },
     {
-        "chefPicture": "https://via.placeholder.com/150",
-        "chefName": "Emily Brown",
-        "yearsOfExperience": 6,
-        "numberOfRecipes": 20
+      "chefPicture": "https://via.placeholder.com/150",
+      "chefName": "Emily Brown",
+      "shortBio": "Emily Brown is a pastry chef who specializes in creating beautiful and delicious desserts. She has worked in some of the best restaurants in the country and has won several awards for her desserts.",
+      "likes": 500,
+      "numberOfRecipes": 20,
+      "yearsOfExperience": 6
     },
     {
-        "chefPicture": "https://via.placeholder.com/150",
-        "chefName": "David Lee",
-        "yearsOfExperience": 15,
-        "numberOfRecipes": 80
+      "chefPicture": "https://via.placeholder.com/150",
+      "chefName": "David Lee",
+      "shortBio": "David Lee is a Korean-American chef who combines traditional Korean flavors with modern cooking techniques. He is the owner of several successful restaurants and has been featured in several food magazines.",
+      "likes": 2000,
+      "numberOfRecipes": 80,
+      "yearsOfExperience": 15
     },
     {
-        "chefPicture": "https://via.placeholder.com/150",
-        "chefName": "Sophie Wilson",
-        "yearsOfExperience": 5,
-        "numberOfRecipes": 15
+      "chefPicture": "https://via.placeholder.com/150",
+      "chefName": "Sophie Wilson",
+      "shortBio": "Sophie Wilson is a plant-based chef who creates delicious and nutritious vegan meals. She is passionate about promoting a healthy and sustainable lifestyle through her cooking.",
+      "likes": 400,
+      "numberOfRecipes": 15,
+      "yearsOfExperience": 5
     }
-]
+  ]
+  
