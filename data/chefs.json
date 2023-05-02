@@ -1,0 +1,38 @@
+[
+    {
+        "chefPicture": "https://via.placeholder.com/150",
+        "chefName": "John Smith",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50
+    },
+    {
+        "chefPicture": "https://via.placeholder.com/150",
+        "chefName": "Jane Doe",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 30
+    },
+    {
+        "chefPicture": "https://via.placeholder.com/150",
+        "chefName": "Michael Johnson",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 70
+    },
+    {
+        "chefPicture": "https://via.placeholder.com/150",
+        "chefName": "Emily Brown",
+        "yearsOfExperience": 6,
+        "numberOfRecipes": 20
+    },
+    {
+        "chefPicture": "https://via.placeholder.com/150",
+        "chefName": "David Lee",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 80
+    },
+    {
+        "chefPicture": "https://via.placeholder.com/150",
+        "chefName": "Sophie Wilson",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 15
+    }
+]
