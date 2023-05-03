@@ -8,9 +8,13 @@
     "numberOfRecipes": 100,
     "yearsOfExperience": 35,
     "recipes": [
-      { "title": "Spaghetti Bolognese", "ingredients": ["spaghetti", "ground beef", "tomato sauce"] },
-      { "title": "Chicken Alfredo", "ingredients": ["chicken breasts", "fettuccine", "heavy cream"] },
-      { "title": "Beef Stew", "ingredients": ["beef chuck", "carrots", "potatoes"] }
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "ingredients": ["spaghetti", "pancetta", "egg yolks", "Parmesan cheese", "black pepper"],
+        "method": "1. Cook spaghetti according to package instructions.\n2. Meanwhile, in a skillet, cook pancetta over medium heat until crispy.\n3. In a bowl, whisk together egg yolks, Parmesan cheese, and black pepper.\n4. Drain spaghetti and add it to the skillet with pancetta. Remove from heat and let cool for a minute.\n5. Add egg mixture to spaghetti and pancetta, and toss until combined and creamy.\n6. Serve hot with extra Parmesan cheese and black pepper.",
+        "rating": 4.8
+      }
     ]
   },
   {
@@ -22,9 +26,13 @@
     "numberOfRecipes": 75,
     "yearsOfExperience": 40,
     "recipes": [
-      { "title": "Chocolate Chip Cookies", "ingredients": ["flour", "sugar", "chocolate chips"] },
-      { "title": "Banana Bread", "ingredients": ["bananas", "flour", "sugar"] },
-      { "title": "Pumpkin Pie", "ingredients": ["pumpkin puree", "condensed milk", "pie crust"] }
+      {
+        "id": 2,
+        "name": "Chicken Fajitas",
+        "ingredients": ["chicken breasts", "red bell pepper", "green bell pepper", "onion", "fajita seasoning"],
+        "method": "1. Cut chicken, bell peppers, and onion into thin strips.\n2. In a large skillet, cook chicken until no longer pink.\n3. Add bell peppers and onion to skillet, and cook until vegetables are tender.\n4. Stir in fajita seasoning and cook for another minute.\n5. Serve hot with warm tortillas and your favorite toppings.",
+        "rating": 4.6
+      }
     ]
   },
   {
@@ -36,9 +44,13 @@
     "numberOfRecipes": 60,
     "yearsOfExperience": 20,
     "recipes": [
-      { "title": "Spaghetti Bolognese", "ingredients": ["spaghetti", "ground beef", "tomato sauce"] },
-      { "title": "Chicken Alfredo", "ingredients": ["chicken breasts", "fettuccine", "heavy cream"] },
-      { "title": "Beef Stew", "ingredients": ["beef chuck", "carrots", "potatoes"] }
+      {
+        "id": 3,
+        "name": "Mushroom Risotto",
+        "ingredients": ["arborio rice", "mushrooms", "vegetable broth", "Parmesan cheese", "butter"],
+        "method": "1. In a large saucepan, heat vegetable broth over medium heat.\n2. In another large saucepan, sauté mushrooms until tender and browned.\n3. Add arborio rice to the mushroom pan and cook until lightly toasted.\n4. Gradually add hot vegetable broth to the rice, stirring constantly, until the broth is absorbed and the rice is creamy and tender.\n5. Stir in Parmesan cheese and butter until melted and combined.\n6. Serve hot with extra Parmesan cheese and chopped parsley.",
+        "rating": 4.9
+      }
     ]
   },
   {
@@ -50,9 +62,13 @@
     "numberOfRecipes": 120,
     "yearsOfExperience": 60,
     "recipes": [
-      { "title": "Chocolate Chip Cookies", "ingredients": ["flour", "sugar", "chocolate chips"] },
-      { "title": "Banana Bread", "ingredients": ["bananas", "flour", "sugar"] },
-      { "title": "Pumpkin Pie", "ingredients": ["pumpkin puree", "condensed milk", "pie crust"] }
+      {
+        "id": 4,
+        "name": "Beef Stroganoff",
+        "ingredients": ["beef sirloin", "onion", "mushrooms", "beef broth", "sour cream"],
+        "method": "1. Cut beef into thin strips.\n2. In a large skillet, cook beef until browned on all sides. Remove from skillet and set aside.\n3. In the same skillet, sauté onion and mushrooms until tender.\n4. Add beef broth to the skillet and bring to a boil.\n5. Reduce heat and stir in sour cream until combined.\n6. Add beef back to the skillet and cook until heated through.\n7. Serve hot with egg noodles or rice.",
+        "rating": 4.5
+      }
     ]
   },
   {
@@ -64,9 +80,13 @@
     "numberOfRecipes": 90,
     "yearsOfExperience": 30,
     "recipes": [
-      { "title": "Spaghetti Bolognese", "ingredients": ["spaghetti", "ground beef", "tomato sauce"] },
-      { "title": "Chicken Alfredo", "ingredients": ["chicken breasts", "fettuccine", "heavy cream"] },
-      { "title": "Beef Stew", "ingredients": ["beef chuck", "carrots", "potatoes"] }
+      {
+        "id": 5,
+        "name": "Chicken Fajitas",
+        "ingredients": ["chicken breasts", "red bell pepper", "green bell pepper", "onion", "fajita seasoning"],
+        "method": "1. Cut chicken, bell peppers, and onion into thin strips.\n2. In a large skillet, cook chicken until no longer pink.\n3. Add bell peppers and onion to skillet, and cook until vegetables are tender.\n4. Stir in fajita seasoning and cook for another minute.\n5. Serve hot with warm tortillas and your favorite toppings.",
+        "rating": 4.6
+      }
     ]
   },
   {
@@ -78,9 +98,13 @@
     "numberOfRecipes": 50,
     "yearsOfExperience": 25,
     "recipes": [
-      { "title": "Chocolate Chip Cookies", "ingredients": ["flour", "sugar", "chocolate chips"] },
-      { "title": "Banana Bread", "ingredients": ["bananas", "flour", "sugar"] },
-      { "title": "Pumpkin Pie", "ingredients": ["pumpkin puree", "condensed milk", "pie crust"] }
+      {
+        "id": 6,
+        "name": "Mushroom Risotto",
+        "ingredients": ["arborio rice", "mushrooms", "vegetable broth", "Parmesan cheese", "butter"],
+        "method": "1. In a large saucepan, heat vegetable broth over medium heat.\n2. In another large saucepan, sauté mushrooms until tender and browned.\n3. Add arborio rice to the mushroom pan and cook until lightly toasted.\n4. Gradually add hot vegetable broth to the rice, stirring constantly, until the broth is absorbed and the rice is creamy and tender.\n5. Stir in Parmesan cheese and butter until melted and combined.\n6. Serve hot with extra Parmesan cheese and chopped parsley.",
+        "rating": 4.9
+      }
     ]
   }
 ]
