@@ -1,51 +1,86 @@
 [
-    {
-      "chefPicture": "https://via.placeholder.com/150",
-      "chefName": "John Smith",
-      "shortBio": "John Smith is a classically trained chef with over 10 years of experience in the restaurant industry. He specializes in French cuisine and has published two cookbooks.",
-      "likes": 1000,
-      "numberOfRecipes": 50,
-      "yearsOfExperience": 10
-    },
-    {
-      "chefPicture": "https://via.placeholder.com/150",
-      "chefName": "Jane Doe",
-      "shortBio": "Jane Doe is a self-taught chef who has been cooking since she was a child. She is passionate about using locally sourced ingredients and creating healthy, flavorful meals.",
-      "likes": 750,
-      "numberOfRecipes": 30,
-      "yearsOfExperience": 8
-    },
-    {
-      "chefPicture": "https://via.placeholder.com/150",
-      "chefName": "Michael Johnson",
-      "shortBio": "Michael Johnson is a celebrity chef who has appeared on several cooking shows. He is known for his innovative fusion cuisine and has won numerous awards for his cooking.",
-      "likes": 1500,
-      "numberOfRecipes": 70,
-      "yearsOfExperience": 12
-    },
-    {
-      "chefPicture": "https://via.placeholder.com/150",
-      "chefName": "Emily Brown",
-      "shortBio": "Emily Brown is a pastry chef who specializes in creating beautiful and delicious desserts. She has worked in some of the best restaurants in the country and has won several awards for her desserts.",
-      "likes": 500,
-      "numberOfRecipes": 20,
-      "yearsOfExperience": 6
-    },
-    {
-      "chefPicture": "https://via.placeholder.com/150",
-      "chefName": "David Lee",
-      "shortBio": "David Lee is a Korean-American chef who combines traditional Korean flavors with modern cooking techniques. He is the owner of several successful restaurants and has been featured in several food magazines.",
-      "likes": 2000,
-      "numberOfRecipes": 80,
-      "yearsOfExperience": 15
-    },
-    {
-      "chefPicture": "https://via.placeholder.com/150",
-      "chefName": "Sophie Wilson",
-      "shortBio": "Sophie Wilson is a plant-based chef who creates delicious and nutritious vegan meals. She is passionate about promoting a healthy and sustainable lifestyle through her cooking.",
-      "likes": 400,
-      "numberOfRecipes": 15,
-      "yearsOfExperience": 5
-    }
-  ]
-  
+  {
+    "id": 1,
+    "chefPicture": "https://ibb.co/zm0nHrD",
+    "chefName": "Pierre Gagnaire",
+    "shortBio": "Pierre Gagnaire is a Michelin-starred chef known for his innovative and artistic approach to French cuisine. He has over 35 years of experience in the restaurant industry and has received numerous awards for his cooking.",
+    "likes": 2000,
+    "numberOfRecipes": 100,
+    "yearsOfExperience": 35,
+    "recipes": [
+      { "title": "Spaghetti Bolognese", "ingredients": ["spaghetti", "ground beef", "tomato sauce"] },
+      { "title": "Chicken Alfredo", "ingredients": ["chicken breasts", "fettuccine", "heavy cream"] },
+      { "title": "Beef Stew", "ingredients": ["beef chuck", "carrots", "potatoes"] }
+    ]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://via.placeholder.com/150",
+    "chefName": "Alain Ducasse",
+    "shortBio": "Alain Ducasse is a legendary French chef who has earned a total of 21 Michelin stars throughout his career. He is known for his focus on local, seasonal ingredients and his ability to create elegant and refined dishes.",
+    "likes": 1500,
+    "numberOfRecipes": 75,
+    "yearsOfExperience": 40,
+    "recipes": [
+      { "title": "Chocolate Chip Cookies", "ingredients": ["flour", "sugar", "chocolate chips"] },
+      { "title": "Banana Bread", "ingredients": ["bananas", "flour", "sugar"] },
+      { "title": "Pumpkin Pie", "ingredients": ["pumpkin puree", "condensed milk", "pie crust"] }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://via.placeholder.com/150",
+    "chefName": "Anne-Sophie Pic",
+    "shortBio": "Anne-Sophie Pic is one of the few female chefs to hold three Michelin stars. She comes from a long line of chefs and has been cooking professionally for over 20 years. Her cooking style is known for its lightness and elegance.",
+    "likes": 1200,
+    "numberOfRecipes": 60,
+    "yearsOfExperience": 20,
+    "recipes": [
+      { "title": "Spaghetti Bolognese", "ingredients": ["spaghetti", "ground beef", "tomato sauce"] },
+      { "title": "Chicken Alfredo", "ingredients": ["chicken breasts", "fettuccine", "heavy cream"] },
+      { "title": "Beef Stew", "ingredients": ["beef chuck", "carrots", "potatoes"] }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://via.placeholder.com/150",
+    "chefName": "Paul Bocuse",
+    "shortBio": "Paul Bocuse is a legendary French chef who was known as the 'father of French cuisine.' He had a career that spanned over 60 years and earned a total of 21 Michelin stars. He is credited with popularizing nouvelle cuisine.",
+    "likes": 2500,
+    "numberOfRecipes": 120,
+    "yearsOfExperience": 60,
+    "recipes": [
+      { "title": "Chocolate Chip Cookies", "ingredients": ["flour", "sugar", "chocolate chips"] },
+      { "title": "Banana Bread", "ingredients": ["bananas", "flour", "sugar"] },
+      { "title": "Pumpkin Pie", "ingredients": ["pumpkin puree", "condensed milk", "pie crust"] }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://via.placeholder.com/150",
+    "chefName": "Eric Ripert",
+    "shortBio": "Eric Ripert is a French chef and television personality who is the co-owner of the Michelin-starred restaurant Le Bernardin in New York City. He is known for his focus on seafood and his commitment to sustainability.",
+    "likes": 1800,
+    "numberOfRecipes": 90,
+    "yearsOfExperience": 30,
+    "recipes": [
+      { "title": "Spaghetti Bolognese", "ingredients": ["spaghetti", "ground beef", "tomato sauce"] },
+      { "title": "Chicken Alfredo", "ingredients": ["chicken breasts", "fettuccine", "heavy cream"] },
+      { "title": "Beef Stew", "ingredients": ["beef chuck", "carrots", "potatoes"] }
+    ]
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://via.placeholder.com/150",
+    "chefName": "Helene Darroze",
+    "shortBio": "Helene Darroze is a French chef who holds three Michelin stars across two of her restaurants. She comes from a long line of chefs and has been cooking professionally for over 25 years. She is known for her creative and elegant dishes.",
+    "likes": 1000,
+    "numberOfRecipes": 50,
+    "yearsOfExperience": 25,
+    "recipes": [
+      { "title": "Chocolate Chip Cookies", "ingredients": ["flour", "sugar", "chocolate chips"] },
+      { "title": "Banana Bread", "ingredients": ["bananas", "flour", "sugar"] },
+      { "title": "Pumpkin Pie", "ingredients": ["pumpkin puree", "condensed milk", "pie crust"] }
+    ]
+  }
+]
