@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefPicture": "/public/Pierre Gagnaire.jpg",
+    "chefPicture": "https://i.ibb.co/TwFvqkd/Pierre-Gagnaire.jpg",
     "chefName": "Pierre Gagnaire",
     "shortBio": "Pierre Gagnaire is a Michelin-starred chef known for his innovative and artistic approach to French cuisine. He has over 35 years of experience in the restaurant industry and has received numerous awards for his cooking.",
     "likes": 2000,
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "chefPicture": "/public/Alain Ducasse.jpg",
+    "chefPicture": "https://i.ibb.co/G0SqGT8/Alain-Ducasse.jpg",
     "chefName": "Alain Ducasse",
     "shortBio": "Alain Ducasse is a legendary French chef who has earned a total of 21 Michelin stars throughout his career. He is known for his focus on local, seasonal ingredients and his ability to create elegant and refined dishes.",
     "likes": 1500,
@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "chefPicture": "/public/Anne-Sophie Pic.jpg",
+    "chefPicture": "https://i.ibb.co/9hk4CzV/Anne-Sophie-Pic.jpg",
     "chefName": "Anne-Sophie Pic",
     "shortBio": "Anne-Sophie Pic is one of the few female chefs to hold three Michelin stars. She comes from a long line of chefs and has been cooking professionally for over 20 years. Her cooking style is known for its lightness and elegance.",
     "likes": 1200,
@@ -43,7 +43,7 @@
   },
   {
     "id": 4,
-    "chefPicture": "/public/Paul Bocuse.jpg",
+    "chefPicture": "https://i.ibb.co/DKFg4CV/Paul-Bocuse.jpg",
     "chefName": "Paul Bocuse",
     "shortBio": "Paul Bocuse is a legendary French chef who was known as the 'father of French cuisine.' He had a career that spanned over 60 years and earned a total of 21 Michelin stars. He is credited with popularizing nouvelle cuisine.",
     "likes": 2500,
@@ -57,7 +57,7 @@
   },
   {
     "id": 5,
-    "chefPicture": "/public/Eric Ripert.jpg",
+    "chefPicture": "https://i.ibb.co/PZbnDNZ/Eric-Ripert.jpg",
     "chefName": "Eric Ripert",
     "shortBio": "Eric Ripert is a French chef and television personality who is the co-owner of the Michelin-starred restaurant Le Bernardin in New York City. He is known for his focus on seafood and his commitment to sustainability.",
     "likes": 1800,
@@ -71,7 +71,7 @@
   },
   {
     "id": 6,
-    "chefPicture": "/public/Helene Darroze.jpg",
+    "chefPicture": "https://i.ibb.co/FnJVMH4/Helene-Darroze.jpg",
     "chefName": "Helene Darroze",
     "shortBio": "Helene Darroze is a French chef who holds three Michelin stars across two of her restaurants. She comes from a long line of chefs and has been cooking professionally for over 25 years. She is known for her creative and elegant dishes.",
     "likes": 1000,
